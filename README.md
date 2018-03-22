@@ -1,2 +1,2 @@
 # info5991
-all files in info5991 course 2018
+This repository has all files used in the course INFO5991, we have already finished assignment 01, then we need to complete next four assignments. Keep going guys.
